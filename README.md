@@ -6,9 +6,11 @@ An end-to-end autonomous driving system built using **Deep Learning** and the **
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK
+The project demo video is available in this repository:
 
-> The vehicle is driven entirely by the trained CNN in **Autonomous Mode** without manual steering.
+📹 **demo.mp4**
+
+Download or open `demo.mp4` from the repository to watch the autonomous driving demonstration.
 
 ---
 
